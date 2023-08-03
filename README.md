@@ -11,5 +11,3 @@ Project created for learning with the NextJs
 ## References
 
  - [nextjs](https://nextjs.org/docs)
- - [tailwindui](https://tailwindui.com/)
- - [tailwindcss](https://tailwindcss.com/)
